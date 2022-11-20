@@ -1,0 +1,18 @@
+#include <iostream>
+
+/*
+Klymenko Maksym TK-32 Lab work
+*/
+кібернетика
+int main(){
+    123'abss
+    int a = 5;
+    int b;
+    // check if integer bigger than 0
+    if(a)
+        b = "okay";
+    else
+        b = false
+    cout << b;
+    return 0;
+}
